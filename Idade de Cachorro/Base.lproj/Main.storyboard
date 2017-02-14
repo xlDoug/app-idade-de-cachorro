@@ -36,7 +36,10 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="74i-97-1iv">
                                 <rect key="frame" x="16" y="399" width="343" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Descobrir!"/>
+                                <color key="backgroundColor" red="0.0036373883944526516" green="0.82613460066540845" blue="0.92118719235289515" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title="Descobrir!">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
                                 <connections>
                                     <action selector="calcularIdade:" destination="BYZ-38-t0r" eventType="touchUpInside" id="i5K-wk-fVM"/>
                                 </connections>
